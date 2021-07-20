@@ -15,10 +15,10 @@ ORG_OFFICIAL_EMAIL="pancakeswap@gmail.com"
 
 
 [[CURRENCIES]]
-code="AngryShiba"
+code="PancakeSwap"
 issuer="GAZMMT6MRH2J4AOOFHXNVKDNE2L727MHAUKCCT72Q4523276JSE4PLIR"
 anchor_asset="false"
-name="Angry Shiba"
+name="Pancake Swap"
 desc="PancakeSwap is an automated market maker and Decentralized Exchange (DEX) that allows tokens to be exchanged on the Binance Smart Chain."
 conditions="for every 100 pancake swap tokens you get a ticket for change to win in lottery"
 image="https://i.ibb.co/tz90q64/image.jpg"
